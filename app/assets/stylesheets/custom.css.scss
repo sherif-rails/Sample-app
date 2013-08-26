@@ -2,7 +2,7 @@
 
 	/* mixins, variables, etc. */
 	$grayMediumLight: #eaeaea;
-
+	$black: #222;
 	/* universal */
 
 		html {
@@ -65,6 +65,14 @@
 
 		header{
 		background-color:black;
+		height:50px;
+		ul{
+		
+
+		li{
+		color:black;
+		}
+		}
 		}
 
 		#logo {
